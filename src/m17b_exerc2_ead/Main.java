@@ -11,6 +11,7 @@ public class Main {
                 x = k;
                 y = x+k;
             }
+            // comentário
             while(y>0){
                 y = y-0.1;
                 x = x-y;
